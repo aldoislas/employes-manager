@@ -1,4 +1,4 @@
-# Employees -app
+# Employees -Manager
 
 <h3 align="left">This project was created with React  and Sass, Material UI </h3>
 <p align="left">
